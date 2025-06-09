@@ -23,10 +23,8 @@ Optimizing real-world deployments beyond academic benchmarks
 Interested in collaborating on numerical ML, symbolic systems, or ML for noisy real-world domains?  
 📫 hugo@woodwide.ai | [LinkedIn](https://www.linkedin.com/in/hugo-contant-a0b362297)  
 
----
+__
 
-## 😄 Pronouns  
-He/Him
 <!---
 WWHugs/WWHugs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
